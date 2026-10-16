@@ -23,7 +23,7 @@
 
 ## Используемые технологии
 
-- HTML;
+- HTML; 
 - Bootstrap;
 - CSS;
 - Git;
